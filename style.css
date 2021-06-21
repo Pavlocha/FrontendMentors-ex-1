@@ -1,0 +1,32 @@
+.cardboard-container {
+  background-color: #1b1938;
+  border-radius: 0.5rem;
+  display: flex;
+  height: 27.875rem;
+  margin: auto;
+  width: 69.375rem;
+}
+.cardboard {
+  color: hsl(0, 0%, 100%);
+  display: flex;
+  background-color: hsl(244, 38%, 16%);
+}
+.wrapper {
+  display: flex;
+  height: 100vh;
+  margin: auto;
+  min-height: 40rem;
+}
+.overlay {
+  opacity: 0.55;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  color: hsl(0, 0%, 100%);
+  min-height: 40rem;
+  min-width: 80rem;
+}
